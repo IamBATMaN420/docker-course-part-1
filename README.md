@@ -1,3 +1,5 @@
+## 🐳 Docker Crash Course Summary
+
 Docker streamlines application development by packaging software and its dependencies into lightweight, portable containers. This ensures consistency across different environments—whether it's local development or production deployment.
 
 ### 📦 What This Crash Course Covers
