@@ -12,3 +12,4 @@ Docker streamlines application development by packaging software and its depende
 With these fundamentals, you're equipped to dive deeper into Docker and build scalable, production-ready applications.
 
 blog link : https://ayushblogs-of4f.vercel.app/post/taste-of-docker
+Posted Repo in Docker : https://hub.docker.com/r/ayush095/ayush-node-docker-course
